@@ -1,0 +1,32 @@
+======================================
+cpp
+HELLO WORLD
+Execution time: 13 ms
+======================================
+dotnet
+HELLO WORLD
+Execution time: 215.2909 ms
+======================================
+go
+HELLO WORLD
+Execution time: 542 ms
+======================================
+java
+HELLO WORLD
+Execution time: 456 ms
+======================================
+node
+HELLO WORLD
+Execution time: 481.349255 ms
+======================================
+php
+HELLO WORLD
+Execution time: 158 ms
+======================================
+python
+HELLO WORLD
+Execution time: 114.53515625 ms
+======================================
+rust
+HELLO WORLD
+Execution time: 140 ms

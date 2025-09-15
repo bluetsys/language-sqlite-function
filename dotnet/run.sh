@@ -1,0 +1,1 @@
+dotnet ./bin/Release/net9.0/dotnet.dll

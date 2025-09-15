@@ -1,0 +1,12 @@
+--2025-09-15 14:46:27--  https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar
+Resolving repo1.maven.org (repo1.maven.org)... 199.232.192.209, 199.232.196.209, 2a04:4e42:4c::209, ...
+Connecting to repo1.maven.org (repo1.maven.org)|199.232.192.209|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9731064 (9.3M) [application/java-archive]
+Saving to: ‘sqlite-jdbc-3.36.0.3.jar’
+
+sqlite-jdbc-3.36.0.3.jar      95%[==========================================>  ]   8.90M  --.-KB/s    eta 17s    sqlite-jdbc-3.36.0.3.jar     100%[============================================>]   9.28M   390KB/s    in 6m 41s  
+
+utime(sqlite-jdbc-3.36.0.3.jar): Operation not permitted
+2025-09-15 14:53:13 (23.7 KB/s) - ‘sqlite-jdbc-3.36.0.3.jar’ saved [9731064/9731064]
+
